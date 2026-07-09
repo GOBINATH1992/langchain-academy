@@ -1,7 +1,10 @@
 .ipynb_checkpoints/
+pyproject.toml
+.python-version
+uv.lock
 
 .idea/
-
+.langgraph_api/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
